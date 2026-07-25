@@ -1,0 +1,143 @@
+{
+  "users": [
+    {
+      "name": "shannu",
+      "email": "shannu2000@gamil.com",
+      "mobile": "1234567890",
+      "password": "123",
+      "id": "7vdyqkuD1HA"
+    },
+    {
+      "name": "rajshamani",
+      "email": "rajshamani@gmail.com",
+      "mobile": "987654321",
+      "password": "321",
+      "id": "zAG9HcWXnWU"
+    },
+    {
+      "name": "shannu",
+      "email": "shannu2000@gamil.com",
+      "mobile": "1234567890",
+      "password": "123",
+      "id": "kt77Fv8WDTA"
+    },
+    {
+      "name": "shannu",
+      "email": "shannu2000@gamil.com",
+      "mobile": "1234567890",
+      "password": "123",
+      "id": "i_nmlck0x2E"
+    }
+  ],
+  "products": [
+    {
+      "product_id": 1,
+      "product_name": "Samsung F23",
+      "product_price": 20000,
+      "product_category": "Electronics",
+      "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV9MTxY4OQg8E_wNJEReP9NOLq4uOs4_BOYLkJS1_icg&s=10",
+      "product_description": "The Samsung Galaxy F23 5G is a budget-friendly smartphone designed to offer smooth everyday performance and reliable 5G connectivity. It features a large 6.6-inch Full HD+ display with a 120Hz refresh rate, ensuring fluid scrolling and crisp visuals for media consumption. Powered by the Qualcomm Snapdragon 750G processor, it handles multitasking and casual gaming with ease. On the back, it sports a minimalist matte finish with a triple-camera system led by a 50MP main sensor, while a robust 5000 mAh battery keeps the device running all day.",
+      "product_ratings": 4,
+      "id": "Qq-YYQMJcFI"
+    },
+    {
+      "product_id": 2,
+      "product_name": "Oppo k13 Turbo",
+      "product_price": 40000,
+      "product_category": "Electronics",
+      "product_image": "https://rukminim2.flixcart.com/image/930/930/xif0q/mobile/w/m/v/-original-imahhhhg3zywhyqy.jpeg?q=90",
+      "product_description": "The OPPO K13 Turbo 5G is a high-performance gaming smartphone that stands out for its bold, cyberpunk-inspired design and advanced thermal management. It features a large, flat 6.8-inch 1.5K AMOLED display with ultra-thin, symmetrical bezels and a sleek punch-hole camera. The device's most distinctive design element is its built-in active cooling system, which utilizes an L-shaped airflow duct and visible fan vents on the rear panel to keep the phone cool during intense gaming sessions.",
+      "product_ratings": 4.5,
+      "id": "o-Yt8IHt24s"
+    },
+    {
+      "product_id": 3,
+      "product_name": "Hatsun curd",
+      "product_price": 400,
+      "product_category": "dairy",
+      "product_image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/ciw/2025/12/17/22823919-b4f6-4158-b97b-45b44af7a024_GZ2GYC77DM_MN_17122025.png",
+      "product_description": "Hatsun Curd is available in various packaging options, including pouches, plastic cups, and tubs. The product line primarily features the standard Hatsun Curd and the popular Arokya Curd variant, both made from pasteurised toned milk.",
+      "product_ratings": 4.5,
+      "id": "NUf6qZIt2Yk"
+    },
+    {
+      "product_id": 4,
+      "product_name": "Amul Milk",
+      "product_price": 450,
+      "product_category": "dairy",
+      "product_image": "https://fetchnbuy.in/cdn/shop/files/FullSizeRender_grande.jpg?v=1724562386",
+      "product_description": "Amul offers a wide variety of pasteurised and homogenized milk variants tailored for different dietary needs, available in both daily fresh pouches and long-shelf-life tetra packs. Managed by the Gujarat Cooperative Milk Marketing Federation (GCMMF), Amul updated its national pricing structure to accommodate rising operational and production costs.",
+      "product_ratings": 4.5,
+      "id": "9FwdiheMqTM"
+    },
+    {
+      "product_id": 5,
+      "product_name": "Rayban goggles",
+      "product_price": 4500,
+      "product_category": "Fashion",
+      "product_image": "https://www.designinfo.in/wp-content/uploads/2024/06/Meta-Ray-Ban-Wayfarer-Glasses-with-Polarization-Matte-Black-Standard-1-1.webp",
+      "product_description": "Ray-Ban sunglasses are renowned globally for their premium craftsmanship, timeless designs, and advanced protective lens technologies. Originally engineered in 1937 to shield military pilots from harsh atmospheric glare, the brand has evolved into an essential fashion powerhouse.",
+      "product_ratings": 4.5,
+      "id": "GH5zyd0djNg"
+    }
+  ],
+  "orders": [
+    {
+      "customer_id": "7vdyqkuD1HA",
+      "customer_name": "shannu",
+      "customer_email": "shannu2000@gamil.com",
+      "customer_mobile": "1234567890",
+      "customer_address": "Pentagon Space\nBengluru",
+      "product_id": 3,
+      "product_anme": "Hatsun curd",
+      "product_quantity": 1,
+      "total": 400,
+      "order_date": "20/7/2026",
+      "product_img": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/ciw/2025/12/17/22823919-b4f6-4158-b97b-45b44af7a024_GZ2GYC77DM_MN_17122025.png",
+      "id": "80GhXYcyS9k"
+    },
+    {
+      "customer_id": "7vdyqkuD1HA",
+      "customer_name": "shannu",
+      "customer_email": "shannu2000@gamil.com",
+      "customer_mobile": "1234567890",
+      "customer_address": "Pentagon Space\nBengluru",
+      "product_id": 2,
+      "product_anme": "Oppo k13 Turbo",
+      "product_quantity": 1,
+      "total": 40000,
+      "order_date": "20/7/2026",
+      "product_img": "https://rukminim2.flixcart.com/image/930/930/xif0q/mobile/w/m/v/-original-imahhhhg3zywhyqy.jpeg?q=90",
+      "id": "UOI1aOpkj3M"
+    },
+    {
+      "customer_id": "7vdyqkuD1HA",
+      "customer_name": "shannu",
+      "customer_email": "shannu2000@gamil.com",
+      "customer_mobile": "1234567890",
+      "customer_address": "Pentagon Space\nBengluru",
+      "product_id": 2,
+      "product_anme": "Oppo k13 Turbo",
+      "product_quantity": 1,
+      "total": 40000,
+      "order_date": "20/7/2026",
+      "product_img": "https://rukminim2.flixcart.com/image/930/930/xif0q/mobile/w/m/v/-original-imahhhhg3zywhyqy.jpeg?q=90",
+      "id": "GUFgJaL7C9Y"
+    },
+    {
+      "customer_id": "7vdyqkuD1HA",
+      "customer_name": "shannu",
+      "customer_email": "shannu2000@gamil.com",
+      "customer_mobile": "1234567890",
+      "customer_address": "Pentagon Space\nBengluru",
+      "product_id": 1,
+      "product_anme": "Samsung F23",
+      "product_quantity": 1,
+      "total": 20000,
+      "order_date": "20/7/2026",
+      "product_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV9MTxY4OQg8E_wNJEReP9NOLq4uOs4_BOYLkJS1_icg&s=10",
+      "id": "iz5w36S1ftU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
